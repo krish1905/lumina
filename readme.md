@@ -1,6 +1,6 @@
 # Lumina - Reinforcement Learning for Portfolio Management
 
-**Author:** Krish Garg
+**Author:** Krish Garg  
 **Copyright:** © 2024 Krish. All rights reserved.
 
 ## Overview
