@@ -1,6 +1,6 @@
 """
 lumina - Reinforcement Learning for Portfolio Management
-Copyright (c) 2024 Krish
+Copyright (c) 2024 Krish Garg
 All rights reserved.
 
 This script downloads market data, detects regimes via an HMM,
